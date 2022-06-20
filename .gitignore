@@ -1,0 +1,13 @@
+dist/
+
+# Mac
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Jetbrains
+.idea/
+
+webapp/src/manifest.js
+server/manifest.go
